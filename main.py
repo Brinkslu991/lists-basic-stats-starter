@@ -14,6 +14,7 @@ print(f'Your best score was {max(scores)}')
 print(f'The average of your scores is {average_score:.2f}')
 
 
+
 distances = [480,438,4640,2814,4594]
 average_distance = sum(distances) / len(distances)
 
